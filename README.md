@@ -11,3 +11,5 @@ To see one word ahead in the list press next
 To see one word behind in the list press previous
 
 Enjoy :D
+
+Update January 20 2018: The app isn't released for desktop yet. It still requires and ide to run. I'm working on releasing it for desktop as soon as I get some free time. 
